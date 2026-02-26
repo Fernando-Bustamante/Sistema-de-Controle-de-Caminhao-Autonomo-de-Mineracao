@@ -1,0 +1,23 @@
+# Binários C++
+/build/
+*.out
+*.exe
+*.so
+*.a
+
+# Arquivos do CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Arquivos de IDE
+.vscode/
+.idea/
+*.suo
+*.user
+
+# Arquivos Python
+__pycache__/
+*.pyc
+.venv/
